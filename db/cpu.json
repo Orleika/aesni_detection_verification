@@ -1,0 +1,289 @@
+{"_id":{ "$oid": "56484154d2eb74332952dc4a" },"microarchitecture":"Arrandale","model":"Celeron P4600","name":"Intel(R }Celrlon(R } CPU P4600 @2.00GHz 2.00GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc4b" },"microarchitecture":"Arrandale","model":"Celeron P4600","name":"Intel(R } Celeron(R }CPU P4600 @2.00GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc4c" },"microarchitecture":"Arrandale","model":"i3-350M","name":"Intel(R }Core(TM }i3 CPU M350 @ 2.277GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc4d" },"microarchitecture":"Arrandale","model":"i3-370M","name":"Intel(R } Core(TM } i3 CPU M370 @ 2.40GHz 2.40GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc4e" },"microarchitecture":"Arrandale","model":"i3-370M","name":"Intel(R } Core(TM } i3  CPU M370 @ 2.40GHz 2.40GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc4f" },"microarchitecture":"Arrandale","model":"i3-370M","name":"Intel(R } Core(TM } i3 CPU M370 @2.40GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc50" },"microarchitecture":"Arrandale","model":"i3-380M","name":"Intel(R } Core(TM } i3 CPU  M380 @ 2.53GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc51" },"microarchitecture":"Arrandale","model":"i3-380M","name":"Intel(R } Core(TM } i3 CPU  M380 @ 2.53GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc52" },"microarchitecture":"Arrandale","model":"i5-430M","name":"Intel(R } Core(TM } i5-cpu M430@2.27GHz(4CPUs }.","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc53" },"microarchitecture":"Arrandale","model":"i5-460M","name":"Intel(R } Core(TM } i5-460 @2.53GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc54" },"microarchitecture":"Arrandale","model":"i5-460M","name":"Intel(R } Core(TM } i5 CPU M460 @2.53GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc55" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5 CPU M 480 @2.67GHz 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc56" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5 CPU M480 @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc57" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5-M480 CPU @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc58" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5-M480 CPU @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc59" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5-M480 CPU @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc5a" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5-M480 CPU @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc5b" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5-M480 CPU @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc5c" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5-M480 CPU @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc5d" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5-M480 CPU @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc5e" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5-M480 CPU @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc5f" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5-M480 CPU @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc60" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5-M480 CPU @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc61" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5-M480 CPU @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc62" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5-M480 CPU @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc63" },"microarchitecture":"Arrandale","model":"i5-480M","name":"Intel(R } Core(TM } i5-M480 CPU @ 2.67GHz","core":24,"aesni":0,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc64" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5 CPU M 560 @ 2.67GHz","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc65" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc66" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc67" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc68" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc69" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc6a" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc6b" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc6c" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc6d" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc6e" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc6f" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc70" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc71" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5 CPU   M 560@ 2.67GHz  2.67GHz","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc72" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5 CPU   M 560@ 2.67GHz  2.67GHz","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc73" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc74" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc75" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc76" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc77" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc78" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc79" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc7a" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc7b" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc7c" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc7d" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc7e" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc7f" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc80" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc81" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc82" },"microarchitecture":"Arrandale","model":"i5-560M","name":"Intel(R } Core(TM } i5-M560 CPU @ 2.67GHz(4CPUs }","core":24,"aesni":1,"tb":1}
+{"_id":{ "$oid": "56484154d2eb74332952dc83" },"microarchitecture":"Arrandale","model":"Pentium P6200","name":"Intel(R } Pentium(R } CPU P6200 @ 2.13GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc84" },"microarchitecture":"Arrandale","model":"Pentium P6100","name":"Intel(R } Pentium(R } processor P6100 @ 2.00GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc85" },"microarchitecture":"Arrandale","model":"Pentium P6200","name":"Intel(R } Pentium(TM } CPU P6200 @ 2.13GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc86" },"microarchitecture":"Arrandale","model":"Pentium P6200","name":"Intel(R } Pentium (R } CPU  P6200 @  2.13GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc87" },"microarchitecture":"Bay Trail","model":"Celeron N2815","name":"Intel(R } Celeron(R }  CPU N2815 @ 1.86GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc88" },"microarchitecture":"Conroe","model":"Celeron 430","name":"Intel(R } Celeron(R } CPU 430 @ 1.80GHz","core":11,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc89" },"microarchitecture":"Conroe","model":"Core 2 Duo E4500","name":"Intel(R } Core(TM } 2 Duo CPU E4500 @2.20GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc8a" },"microarchitecture":"Conroe","model":"Core 2 Duo E6300","name":"Intel(R } Core(TM }2 CPU  6300 @ 1.86GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc8b" },"microarchitecture":"Conroe","model":"Core 2 Duo E6400","name":"Intel(R } Core(TM }2 CPU 6400 @ 2.13GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc8c" },"microarchitecture":"Conroe","model":"Core 2 Duo E6400","name":"Intel(R } Core(TM }2 CPU 6400 @ 2.13GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc8d" },"microarchitecture":"Conroe","model":"Core 2 Duo E6700","name":"Intel(R }Core(TM }2CPU@6700 2.66GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc8e" },"microarchitecture":"Conroe","model":"Core 2 Duo E6700","name":"Intel(R } Core(TM }2 CPU 6400 @ 2.13GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc8f" },"microarchitecture":"Conroe","model":"Core 2 Duo E6700","name":"Intel(R } Core(TM }2  CPU 6700 @ 2.66GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc90" },"microarchitecture":"Conroe","model":"Core 2 Duo E6700","name":"Intel(R } Core(TM }2  CPU 6700 @ 2.66GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc91" },"microarchitecture":"Conroe","model":"Core 2 Duo E6700","name":"Intel(R }Core(TM }2CPU\ufffd@6700\ufffd\ufffd2.66GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc92" },"microarchitecture":"Diamondville","model":"Atom N270","name":"Intel(R } Atom(TM }  CPU N270 @ 1.60GHz","core":12,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc93" },"microarchitecture":"Haswell","model":"i3-4025","name":"Intel(R }Core(TM }i3-4025CPU@1.90GHz","core":24,"aesni":1,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc94" },"microarchitecture":"Haswell","model":"i3-4150","name":"Intel(R } Core(TM } i3-4150 CPU @ 3.5GHz","core":24,"aesni":1,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dc95" },"microarchitecture":"Haswell","model":"i5-4250U","name":"Intel(R } Core(TM } i5-4250U CPU @ 1.30GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dc96" },"microarchitecture":"Haswell","model":"i5-4300U","name":"Intel(R } Core(TM } i5-4300U CPU @ 1.90GHz 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dc97" },"microarchitecture":"Haswell","model":"i5-4430","name":"Intel(R }Come(TM }i5-4430 CPU @3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dc98" },"microarchitecture":"Haswell","model":"i5-4440","name":"Intel(R } Core(TM } i5-4440 CPU @ 3.10GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dc99" },"microarchitecture":"Haswell","model":"i5-4440","name":"Intel(R } Core(TM } i5-4440 CPU @ 3.10GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dc9a" },"microarchitecture":"Haswell","model":"i5-4440","name":"Intel(R } Core(TM } i5-4440 CPU @ 3.10GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dc9b" },"microarchitecture":"Haswell","model":"i5-4440","name":"Intel(R } Core(TM } i5-4440 CPU @ 3.10GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dc9c" },"microarchitecture":"Haswell","model":"i5-4440","name":"Intel(R } Core(TM } i5-4440 CPU @ 3.10GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dc9d" },"microarchitecture":"Haswell","model":"i5-4440","name":"Intel(R } Core(TM } i5-4440 CPU @ 3.10GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dc9e" },"microarchitecture":"Haswell","model":"i5-4460","name":"Intel(R } Core(TM } i5-4460 CPU @ 3.20GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dc9f" },"microarchitecture":"Haswell","model":"i5-4460","name":"\ufffdC\ufffd\ufffd\ufffde\ufffd\ufffd? Core? i5-4460","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dca0" },"microarchitecture":"Haswell","model":"i5-4570","name":"Intel(R } Core(TM } i5-4570 CPU @ 3.20GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dca1" },"microarchitecture":"Haswell","model":"i5-4570","name":"Intel(R } Core(TM } i5-4570 CPU @ 3.20GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dca2" },"microarchitecture":"Haswell","model":"i5-4670","name":"Intel(R } Core(TM } i5-4670 CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dca3" },"microarchitecture":"Haswell","model":"i5-4670","name":"Intel(R } Core(TM } i5-4670 CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dca4" },"microarchitecture":"Haswell","model":"i5-4670","name":"Intel(R } Core(TM } i5-4670 CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dca5" },"microarchitecture":"Haswell","model":"i5-4670","name":"Intel(R } Core(TM } i5-4670 CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dca6" },"microarchitecture":"Haswell","model":"i7-4702MQ","name":"Intel(R } Core(TM } i7-4702MQ CPU @ 2.20GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dca7" },"microarchitecture":"Haswell","model":"i7-4770K","name":"Intel(R } Core(TM } i7-4770K CPU @ 3.50GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dca8" },"microarchitecture":"Haswell","model":"i7-4790","name":"Intel(R } Core(TM } i7-4790 CPU @ 3.60GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dca9" },"microarchitecture":"Haswell","model":"i7-4790","name":"Intel(R } Core(TM } i7-4790 CPU @ 3.60GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcaa" },"microarchitecture":"Haswell","model":"i7-4800MQ","name":"Intel(R } Core(TM } i7-4800MQ CPU @ 2.70GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcab" },"microarchitecture":"Haswell","model":"i7-4800MQ","name":"Intel(R } Core(TM } i7-4800MQ CPU @ 2.70GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcac" },"microarchitecture":"Haswell","model":"Pentium 3558U","name":"Intel(R } Pentium(R } 3558U@ 1.70GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcad" },"microarchitecture":"Haswell","model":"Pentium 3556U","name":"Intel(R } Pentium(R } 3556U @ 1.70GHz 1.70GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcae" },"microarchitecture":"Ivy Bridge","model":"Celeron 1000M","name":"Intel(R } Celeron(R } CPU 1000M @1.80GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcaf" },"microarchitecture":"Ivy Bridge","model":"Celeron 1000M","name":"Intel(R } Celeron(R } CPU 1000M @1.80GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcb0" },"microarchitecture":"Ivy Bridge","model":"Celeron 1000M","name":"Intel(R } Celeron(R } CPU1000 @ 1.80GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcb1" },"microarchitecture":"Ivy Bridge","model":"Celeron 1005M","name":"Intel(R } Celeron(R }  CPU @1\ufffdO\ufffdO\ufffdTM","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcb2" },"microarchitecture":"Ivy Bridge","model":"Celeron 1037U","name":"Intel(R } Celeron(R }CPU 1037U @1.80GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcb3" },"microarchitecture":"Ivy Bridge","model":"Celeron G1610","name":"Intel(R } Celeron(R } CPU G1610 @ 2.60 GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcb4" },"microarchitecture":"Ivy Bridge","model":"i3-3120M","name":"Intel(R } Core(TM } i3-3120M CPU @ 2.50GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcb5" },"microarchitecture":"Ivy Bridge","model":"i3-3217U","name":"Intel(R } Core(TM }@i3-3217U CPU @ 1.80GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcb6" },"microarchitecture":"Ivy Bridge","model":"i3-3217U","name":"Interu(R }Core(TM }i3 3217U CPU@1.80GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcb7" },"microarchitecture":"Ivy Bridge","model":"i3-3217U","name":"Intel(R } Core(TM } i3-3217U CPU @ 1.80GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcb8" },"microarchitecture":"Ivy Bridge","model":"i3-3217U","name":"Intel(R } Core(TM }\ufffd@i3-3217U CPU @ 1.80GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcb9" },"microarchitecture":"Ivy Bridge","model":"i3-3240","name":"Intel(R } Core(TM } i3-3240 CPU @ 3.40GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcba" },"microarchitecture":"Ivy Bridge","model":"i3-3240","name":"Intel(R } Core(TM } i3-3240 CPU @ 3.40GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcbb" },"microarchitecture":"Ivy Bridge","model":"i3-3240","name":"Intel(R } Core(TM } i3-3240 CPU @ 3.40GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcbc" },"microarchitecture":"Ivy Bridge","model":"i5-3210M","name":"Intel(R } Core(TM } i5-3210M CPU @ 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcbd" },"microarchitecture":"Ivy Bridge","model":"i5-3210M","name":"Intel(R } Core(TM } i5-3210M CPU @ 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcbe" },"microarchitecture":"Ivy Bridge","model":"i5-3210M","name":"Intel(R } Core(TM } i5-3210M CPU @ 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcbf" },"microarchitecture":"Ivy Bridge","model":"i5-3210M","name":"Intel(R } Core(TM } i5-3210M CPU @ 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcc0" },"microarchitecture":"Ivy Bridge","model":"i5-3210M","name":"Intel(R } Core(TM } i5-3210M CPU @ 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcc1" },"microarchitecture":"Ivy Bridge","model":"i5-3210M","name":"Intel(R } Core(TM } i5-3210M CPU @ 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcc2" },"microarchitecture":"Ivy Bridge","model":"i5-3210M","name":"Intel(R } Core(TM } i5-3210M CPU @ 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcc3" },"microarchitecture":"Ivy Bridge","model":"i5-3210M","name":"Intel(R } Core(TM } i5-3210M CPU @ 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcc4" },"microarchitecture":"Ivy Bridge","model":"i5-3210M","name":"Intel(R } Core(TM } i5-3210M CPU @ 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcc5" },"microarchitecture":"Ivy Bridge","model":"i5-3210M","name":"Intel(R } Core(TM } i5-3210M CPU @ 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcc6" },"microarchitecture":"Ivy Bridge","model":"i5-3210M","name":"Intel(R } Core(TM } i5-3210M CPU @ 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcc7" },"microarchitecture":"Ivy Bridge","model":"i5-3217U","name":"Intel(R } Core(TM } i5-3217U CPU @ 1.80GHz","core":24,"aesni":0}
+{"_id":{ "$oid": "56484154d2eb74332952dcc8" },"microarchitecture":"Ivy Bridge","model":"i5-3230M","name":"Intel(R } Core(TM } i5-3230M CPU @ 2.60GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcc9" },"microarchitecture":"Ivy Bridge","model":"i5-3230M","name":"Intel(R } Core(TM } i5-3230M CPU 2.6GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcca" },"microarchitecture":"Ivy Bridge","model":"i5-3230M","name":"Intel(R } Core(TM } i5-3230M CPU @ 2.60GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dccb" },"microarchitecture":"Ivy Bridge","model":"i5-3230M","name":"Intel(R } Core(TM } i5-3230M CPU @ 2.60GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dccc" },"microarchitecture":"Ivy Bridge","model":"i5-3230M","name":"Intel(R } Core(TM } i5-3230M CPU @ 2.60GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dccd" },"microarchitecture":"Ivy Bridge","model":"i5-3230M","name":"Intel(R } Core(TM } i5-3230M CPU @ 2.60GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcce" },"microarchitecture":"Ivy Bridge","model":"i5-3230M","name":"Intel(R } Core(TM } i5-3230M CPU @ 2.60GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dccf" },"microarchitecture":"Ivy Bridge","model":"i5-3230M","name":"Intel(R } Core(TM } i5-3230M CPU @ 2.60GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcd0" },"microarchitecture":"Ivy Bridge","model":"i5-3230M","name":"Intel(R } Core(TM } i5-3230M CPU @ 2.60GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcd1" },"microarchitecture":"Ivy Bridge","model":"i5-3230M","name":"Intel(R } Core(TM } i5-3230M CPU @ 2.60GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcd2" },"microarchitecture":"Ivy Bridge","model":"i5-3230M","name":"Intel(R } Core(TM } i5-3230M CPU @ 2.60GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcd3" },"microarchitecture":"Ivy Bridge","model":"i5-3427U","name":"Intel(R } Core(TM } i5-3427U CPU @ 1.80GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcd4" },"microarchitecture":"Ivy Bridge","model":"i5-3470U","name":"Intel(R } Core(TM } i5-3470U CPU @ 3.20GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcd5" },"microarchitecture":"Ivy Bridge","model":"i5-3470U","name":"Intel(R } Core(TM } i5-3470U CPU @ 3.20GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcd6" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcd7" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcd8" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcd9" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcda" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcdb" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcdc" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcdd" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcde" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcdf" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dce0" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dce1" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dce2" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dce3" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dce4" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dce5" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dce6" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dce7" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dce8" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dce9" },"microarchitecture":"Ivy Bridge","model":"i5-3570K","name":"Intel(R } Core(TM } i5-3570K CPU @ 3.40GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcea" },"microarchitecture":"Ivy Bridge","model":"i7-3520M","name":"Intel(R } Core(TM } i7-3520M CPU @ 2.90GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dceb" },"microarchitecture":"Ivy Bridge","model":"i7-3610QM","name":"Intel(R } Core(TM } i7-3610QM CPU @ 2.30GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcec" },"microarchitecture":"Ivy Bridge","model":"i7-3610QM","name":"Intel(R } Core(TM } i7-3610QM CPU @ 2.30GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dced" },"microarchitecture":"Ivy Bridge","model":"i7-3615QM","name":"Intel(R } Core(TM } i7-3615QM CPU @ 2.30GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcee" },"microarchitecture":"Ivy Bridge","model":"i7-3630QM","name":"Intel(R } Core(TM } i7-3630QM CPU @ 2.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcef" },"microarchitecture":"Ivy Bridge","model":"i7-3630QM","name":"Intel(R } Core(TM } i7-3630QM CPU @ 2.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcf0" },"microarchitecture":"Ivy Bridge","model":"i7-3632QM","name":"Intel(R } Core(TM } i7-3632QM CPU @ 2.20GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcf1" },"microarchitecture":"Ivy Bridge","model":"i7-3632QM","name":"Intel(R } Core(TM } i7-3632QM CPU @ 2.20GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcf2" },"microarchitecture":"Ivy Bridge","model":"i7-3632QM","name":"Intel(R } Core(TM } i7-3632QM CPU @ 2.20GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcf3" },"microarchitecture":"Ivy Bridge","model":"i7-3632QM","name":"Intel Core i7 3632QM","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcf4" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R }Core(TM }i7-3770 CPU @ 3.40GHz 3.40 GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcf5" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcf6" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcf7" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcf8" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcf9" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcfa" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcfb" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Corei7-3770","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcfc" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcfd" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcfe" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dcff" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd00" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd01" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd02" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd03" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd04" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd05" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd06" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd07" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd08" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd09" },"microarchitecture":"Ivy Bridge","model":"i7-3770","name":"Intel(R } Core(TM } i7-3770 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd0a" },"microarchitecture":"Ivy Bridge","model":"i5-3427U","name":"Intel(R } Core(TM } i5-3427U CPU @ 1.30GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd0b" },"microarchitecture":"Ivy Bridge","model":"Pentium 2117U","name":"Intel(R }Pentium(R } CPU 2117U \ufffd\ufffd  1.80GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd0c" },"microarchitecture":"Penryn","model":"Core 2 Duo P8600","name":"Intel(R } Core(TM }2 Duo CPU  P8600 @2.40GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd0d" },"microarchitecture":"Penryn","model":"Core 2 Duo P8700","name":"Intel(R } Core(TM } 2 Duo CPU P8700 @ 2.53GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd0e" },"microarchitecture":"Presler","model":"Pentium D 960","name":"Intel\ufffdiR\ufffdj Pentium\ufffdiR\ufffdj D CPU 3.60GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd0f" },"microarchitecture":"Sandy Bridge","model":"Celeron B800","name":"Intel(R }Celeron(R }CPU B800 @ 1.50GHz  1.50GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd10" },"microarchitecture":"Sandy Bridge","model":"Celeron B800","name":"Intel(R }Celeron(R }CPU B800 @ 1.50GHz  1.50GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd11" },"microarchitecture":"Sandy Bridge","model":"Celeron B800","name":"Intel(R }Celeron(R }CPU B800 @ 1.50GHz  1.50GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd12" },"microarchitecture":"Sandy Bridge","model":"Celeron B800","name":"Intel(R }Celeron(R }CPU B800 @ 1.50GHz  1.50GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd13" },"microarchitecture":"Sandy Bridge","model":"Celeron B800","name":"Intel(R }Celeron(R }CPU B800 @ 1.50GHz  1.50GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd14" },"microarchitecture":"Sandy Bridge","model":"Celeron B800","name":"Intel(R }Celeron(R }CPU B800 @ 1.50GHz  1.50GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd15" },"microarchitecture":"Sandy Bridge","model":"Celeron B800","name":"Intel(R }Celeron(R }CPU B800 @ 1.50GHz  1.50GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd16" },"microarchitecture":"Sandy Bridge","model":"Celeron B800","name":"Intel(R }Celeron(R }CPU B800 @ 1.50GHz  1.50GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd17" },"microarchitecture":"Sandy Bridge","model":"Celeron B800","name":"Intel(R }Celeron(R }CPU B800 @ 1.50GHz  1.50GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd18" },"microarchitecture":"Sandy Bridge","model":"Celeron B800","name":"Intel(R }Celeron(R }CPU B800 @ 1.50GHz  1.50GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd19" },"microarchitecture":"Sandy Bridge","model":"Celeron B830","name":"\ufffdC\ufffd\ufffd\ufffde\ufffd\ufffd? Celeron? \ufffdv\ufffd\ufffd\ufffdZ\ufffdb\ufffdT\ufffd[ B830","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd1a" },"microarchitecture":"Sandy Bridge","model":"Celeron B830","name":"\ufffdv\ufffd\ufffd\ufffdZ\ufffdb\ufffdTIntel(R } Celeron(R } CPU B830 @ 1.80GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd1b" },"microarchitecture":"Sandy Bridge","model":"Celeron B830","name":"\ufffdv\ufffd\ufffd\ufffdZ\ufffdb\ufffdTIntel(R } Celeron(R } CPU B830 @ 1.80GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd1c" },"microarchitecture":"Sandy Bridge","model":"i3-2310M","name":"Intel(R } Core(TM } i3-2310M CPU @ 2.10GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd1d" },"microarchitecture":"Sandy Bridge","model":"i3-2350M","name":"Intel(R } Core(TM } i3-2350M CPU @ 2.30GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd1e" },"microarchitecture":"Sandy Bridge","model":"i3-2350M","name":"Intel(R }Core(TM }i3-2350M CPU @ 2.30GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd1f" },"microarchitecture":"Sandy Bridge","model":"i3-2367M","name":"Intel(R } Core(TM } i3-2367M CPU @ 1.40GHz","core":24,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd20" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd21" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd22" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd23" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd24" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd25" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd26" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd27" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd28" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd29" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd2a" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd2b" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd2c" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd2d" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd2e" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd2f" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd30" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd31" },"microarchitecture":"Sandy Bridge","model":"i5-2320","name":"Intel(R } Core(TM } i5-2320 CPU @ 3.00GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd32" },"microarchitecture":"Sandy Bridge","model":"i5-2400","name":"Intel(R } Core(TM } i5-2400 CPU @ 3.10GHz 3.10GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd33" },"microarchitecture":"Sandy Bridge","model":"i5-2400","name":"Intel(R } Core(TM } i5-2400CPU @ 3.1GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd34" },"microarchitecture":"Sandy Bridge","model":"i5-2400","name":"Intel(R } Core(TM } i5-2400 CPU @ 3.10GHz 3.10GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd35" },"microarchitecture":"Sandy Bridge","model":"i5-2400","name":"Intel(R } Core(TM } i5-2400 CPU@ 3.10GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd36" },"microarchitecture":"Sandy Bridge","model":"i5-2400S","name":"Intel(R } Core(TM } i5-2400S CPU @ 2.50GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd37" },"microarchitecture":"Sandy Bridge","model":"i5-2400S","name":"Intel(R } Core(TM } i5-2400S CPU @ 2.50GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd38" },"microarchitecture":"Sandy Bridge","model":"i5-2400S","name":"Intel(R } Core(TM } i5-2400S CPU @ 2.50GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd39" },"microarchitecture":"Sandy Bridge","model":"i5-2400S","name":"Intel(R } Core(TM } i5-2400S CPU @ 2.50GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd3a" },"microarchitecture":"Sandy Bridge","model":"i5-2400S","name":"Intel(R } Core(TM } i5-2400S CPU @ 2.50GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd3b" },"microarchitecture":"Sandy Bridge","model":"i5-2410M","name":"Intel(R } Core(TM } i5-2410M CPU @ 2.30GHz","core":24,"aesni":0,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd3c" },"microarchitecture":"Sandy Bridge","model":"i5-2430M","name":"i5-2430M","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd3d" },"microarchitecture":"Sandy Bridge","model":"i5-2450M","name":"Intel(R } Core(TM } i5-2450 CPU @2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd3e" },"microarchitecture":"Sandy Bridge","model":"i5-2450M","name":"Intel(R } Core(TM } i5-2450 CPU @2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd3f" },"microarchitecture":"Sandy Bridge","model":"i5-2450M","name":"Intel(R } Core(TM } i5-2450 CPU @2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd40" },"microarchitecture":"Sandy Bridge","model":"i5-2450M","name":"Intel(R } Core(TM } i5-2450M CPU @ 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd41" },"microarchitecture":"Sandy Bridge","model":"i5-2450M","name":"Intel(R } Core(TM } i5-2450M CPU @ 2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd42" },"microarchitecture":"Sandy Bridge","model":"i5-2450M","name":"Intel(R } Core(TM } i5-2450\ufffdl  CPU @2.50GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd43" },"microarchitecture":"Sandy Bridge","model":"i5-2467M","name":"Intel(R } Core(TM } i5-2467M CPU @ 1.60GHz","core":24,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd44" },"microarchitecture":"Sandy Bridge","model":"i5-2500","name":"Intel(R } Core(TM } i5-2500 CPU @ 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd45" },"microarchitecture":"Sandy Bridge","model":"i5-2500","name":"Intel(R } Core(TM } i5-2500 CPU @ 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd46" },"microarchitecture":"Sandy Bridge","model":"i5-2500","name":"Intel(R } Core(TM } i5-2500 CPU @ 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd47" },"microarchitecture":"Sandy Bridge","model":"i5-2500","name":"Intel(R } Core(TM } i5-2500 CPU @ 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd48" },"microarchitecture":"Sandy Bridge","model":"i5-2500","name":"Intel(R } Core(TM } i5-2500 CPU @ 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd49" },"microarchitecture":"Sandy Bridge","model":"i5-2500","name":"Intel(R } Core(TM } i5-2500 CPU @ 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd4a" },"microarchitecture":"Sandy Bridge","model":"i5-2500","name":"Intel(R } Core(TM } i5-2500 CPU @ 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd4b" },"microarchitecture":"Sandy Bridge","model":"i5-2500","name":"Intel(R } Core(TM } i5-2500 CPU @ 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd4c" },"microarchitecture":"Sandy Bridge","model":"i5-2500","name":"Intel(R } Core(TM } i5-2500 CPU @ 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd4d" },"microarchitecture":"Sandy Bridge","model":"i5-2500","name":"Intel(R } Core(TM } i5-2500 CPU @ 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd4e" },"microarchitecture":"Sandy Bridge","model":"i5-2500K","name":"Intel(R } Core(TM } i5-2500K CPU @ 3.30GHz 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd4f" },"microarchitecture":"Sandy Bridge","model":"i5-2500K","name":"Intel(R } Core(TM } i5-2500K CPU @ 3.30GHz 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd50" },"microarchitecture":"Sandy Bridge","model":"i5-2500K","name":"Intel(R } Core(TM } i5-2500K CPU @ 3.30GHz 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd51" },"microarchitecture":"Sandy Bridge","model":"i5-2500K","name":"Intel(R } Core(TM } i5-2500K CPU @ 3.30GHz 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd52" },"microarchitecture":"Sandy Bridge","model":"i5-2500K","name":"Intel(R } Core(TM } i5-2500K CPU @ 3.30GHz 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd53" },"microarchitecture":"Sandy Bridge","model":"i5-2500K","name":"Intel(R } Core(TM } i5-2500k CPU @ 3.30GHz","core":44,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd54" },"microarchitecture":"Sandy Bridge","model":"i7-2600","name":"Intel(R } Core(TM } i7-2600 CPU @ 3.40GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd55" },"microarchitecture":"Sandy Bridge","model":"i7-2630QM","name":"Intel(R } Core(TM } i7-2630QM CPU @ 2.00GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd56" },"microarchitecture":"Sandy Bridge","model":"i7-2670Q","name":"Intel(R } Core(TM } i7-2670QM CPU @ 2.20GHz  2.20GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd57" },"microarchitecture":"Sandy Bridge","model":"i7-2670QM","name":"Intel(R } Core(TM } i7-2670QM CPU @ 2.20GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd58" },"microarchitecture":"Sandy Bridge","model":"i7-2670QM","name":"Intel(R } Core(TM } i7-2670QM CPU @ 2.20GHz 2.20GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd59" },"microarchitecture":"Sandy Bridge","model":"i7-2670QM","name":"Intel(R } Core(TM }i7-2670QM CPU @ 2.20GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd5a" },"microarchitecture":"Sandy Bridge","model":"i7-2670QM","name":"Intel(R } Core(TM } i7-2670QM CPU @ 2.20GHz 2.20GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd5b" },"microarchitecture":"Sandy Bridge","model":"i7-2670QM","name":"Intel(R } Core(TM } i7-2670QM CPU @ 2.20GHz 2.20GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd5c" },"microarchitecture":"Sandy Bridge","model":"i7-2670QM","name":"Intel(R } Core(TM } i7-2670QM CPU @ 2.20GHz 2.20GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd5d" },"microarchitecture":"Sandy Bridge","model":"i7-2670QM","name":"Intel(R } Core(TM }i7-2670QM CPU @ 2.20GHz","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd5e" },"microarchitecture":"Sandy Bridge","model":"Pentium G640","name":"Intel(R } Pentium(R } CPU G640 @2.80GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd5f" },"microarchitecture":"Sandy Bridge","model":"Celeron B800","name":"Intel(R }Celeron(R }CPU B800@1.50GHz  1.50GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd60" },"microarchitecture":"Sandy Bridge E","model":"i7-3820","name":"Intel(R } Core(TM } i7-3820 CPU @3.60GH","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd61" },"microarchitecture":"Sandy Bridge E","model":"i7-3820","name":"Intel(R } Core(TM } i7-38200 CPU @3.60GH\ufffd\ufffd","core":48,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd62" },"microarchitecture":"Sandy Bridge E","model":"i7-3930K","name":"Intel Core i7 3930K","core":612,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd63" },"microarchitecture":"Sandy Bridge E","model":"i7-3930K","name":"Intel(R } Core(TM } i7-3930K CPU @ 3.20GHz","core":612,"aesni":1,"tb":2}
+{"_id":{ "$oid": "56484154d2eb74332952dd64" },"microarchitecture":"Smithfield","model":"Pentium D 820","name":"Intel(R } Pentium(R } D CPU 2.80GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd65" },"microarchitecture":"Wolfdale","model":"Celeron E3300","name":"Intel(R } Celeron(R } CPU E3300@2.50GHz 2.50GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd66" },"microarchitecture":"Wolfdale","model":"Core 2 Duo E8400","name":"Intel(R } Core(TM }2 Duo CPU E8400 @ 3.00GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd67" },"microarchitecture":"Wolfdale","model":"Core 2 Duo E8400","name":"Intel(R } Core(TM }2 Duo CPU E8400 @ 3.0GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd68" },"microarchitecture":"Wolfdale","model":"Core 2 Duo E8500","name":"Intel(R } Core(TM } 2 Duo CPU E8500 @ 3.16GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd69" },"microarchitecture":"Wolfdale","model":"Pentium E5200","name":"Pentium(R } Dual-Core CPU E5200 @ 2.50GHz 2.50GHz","core":22,"aesni":0,"tb":0}
+{"_id":{ "$oid": "56484154d2eb74332952dd6a" },"microarchitecture":"Woodcrest","model":"Xeon 5160","name":"Intel(R } Xeon(R } CPU 5160 @ 3.00 GHz","core":22,"aesni":0,"tb":0}

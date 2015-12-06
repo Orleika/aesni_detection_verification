@@ -1,0 +1,351 @@
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-3570K	8.77224439379	52.1
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-3230M	287.913800002	929.6749
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1399.90711064	4779.23555095
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-560M	12.2569426533	70.8
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3632QM	606.226204988	8059.86870495
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-560M	400.136585621	4188.7995556
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2320	273.7568	865.3655
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-3230M	296.1002	925.7876
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Core 2 Duo E6400	20.7527449843	108.8
+Mozilla/5.0 (Windows NT 6.0; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Core 2 Duo P8600	2833.5	1323.5
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	230.5618	770.6655
+Mozilla/5.0 (Windows NT 6.1; Win64; x64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	i5-460M	1238.69539999	1108.4266
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	233.4063	772.1376
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	229.869	770.9583
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	i3-370M	1734.7072	1319.6957
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-560M	372.138	1004.5705
+Mozilla/5.0 (Windows NT 5.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Pentium D 960	1915.6	2035.9
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-2670QM	303.6129	957.562
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2450M	361.4621	924.1894
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-3230M	359.622400001	1135.9746
+Mozilla/5.0 (Windows NT 6.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2430M	310.679	1013.2968
+Mozilla/5.0 (X11; Linux i686 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Linux	0	Core 2 Duo E4500	2416.1616	1426.0349
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron B800	29.8057133787	130.3
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-3230M	343.9577	1129.0324
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2450M	367.851900001	920.5002
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-3230M	293.657699999	931.908800003
+Mozilla/5.0 (Windows NT 6.3; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Pentium E5200	1886.31836037	5210.82686167
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	i3-380M	36.5029583742	86.8
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-3230M	290.1637	927.851299998
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2500	248.4774	755.791
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i3-3240	939.408863428	3564.35606398
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-2320	289.1107291	3870.57053667
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	i5-460M	1449.7062	1124.968
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3630QM	703.140700006	2104.57280001
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3570K	288.394111207	3253.9452566
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Macintosh	1	i5-2400S	1071.1217389	1382.5617681
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2320	273.2901	865.6375
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Celeron 1005M	1661.3549	1561.7837
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-4800MQ	233.7228	749.3301
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASPJS; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-3632QM	12.5002274244	124.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3770	289.361729102	3179.46732125
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3770	306.826617999	3170.83611921
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2500	251.2105	756.8703
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	i3-370M	2238.2295	1713.7694
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Pentium G640	1353.24019998	990.872599999
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-3230M	291.440100002	926.769199996
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-3230M	289.118900003	928.229399998
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-3230M	293.594000001	924.9641
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-560M	368.7518	1003.3986
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3930K	252.7757	740.7526
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2500	253.2974	756.5844
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2500	248.9624	756.176
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Celeron G1610	1276.3562	1133.3757
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2 } AppleWebKit/600.3.18 (KHTML, like Gecko } Version/8.0.3 Safari/600.3.18	Safari	8.0.3	Macintosh	1	i5-4250U	181.348878104	3695.0
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	231.5874	772.206
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	231.7924	773.1115
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Macintosh	1	i5-3210M	280.9131	896.8136
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-560M	399.9396	1000.0368
+Mozilla/5.0 (Windows NT 6.0 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Celeron 430	2712.9	1906.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Macintosh	1	i7-3520M	915.2921673	2198.2036643
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-560M	412.2448	999.0681
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2500	248.5993	755.322
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-4300U	298.9095	952.1636
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-2670QM	343.642812392	4300.23273791
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	i3-2350M	26.1458842764	86.9
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron B800	33.8922597349	130.2
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	230.7928	772.4778
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i3-4025	19.1254894165	93.6
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1405.85799668	4583.79221115
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1435.71324634	4690.24473056
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3470U	265.089258223	3411.71640068
+Mozilla/5.0 (Windows NT 6.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-4790	249.116	726.0968
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3610QM	276.5563	915.4492
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5 } AppleWebKit/600.3.18 (KHTML, like Gecko } Version/7.1.3 Safari/537.85.12	Safari	7.1.3	Macintosh	1	i5-3210M	166.3	3852.3
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-3570K	8.53987305606	51.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-2500K	4.18454935622	59.4
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2450M	296.146	916.2261
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3770	300.11902171	3182.62174369
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3770	300.976805105	3169.72556184
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Macintosh	1	i5-3210M	1021.5700015	1327.1194027
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3570K	288.966708233	3248.40248479
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Macintosh	1	i5-3210M	312.1022	924.2691
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Macintosh	1	i5-2400S	1068.212401	1539.2215239
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-560M	12.1117338136	71.1
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2320	274.1397	865.2252
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Celeron 1037U	2641.9806	2458.0866
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3770	305.949998808	3166.85597045
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	i3-3217U	1810.7664	1650.1586
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2500	248.5513	757.901
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-560M	392.0674	1006.1123
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-2600	7.89371450753	54.1
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Core 2 Duo E6700	13.7425456507	87.5
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-4790	3.45534566114	46.3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1450.03928483	4746.24542142
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-560M	14.4282613667	70.5
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-3570K	9.11370770535	51.9
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; EIE10;JAJPMSN; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-2400	8.20544576997	59.1
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2320	273.8479	865.4049
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-2670QM	336.185122968	4404.87685977
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3570K	288.735423589	3251.40894367
+Mozilla/5.0 (Windows NT 6.1; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Core 2 Duo E6700	1796.22393867	4948.81724324
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:37.0 } Gecko/20100101 Firefox/37.0	Firefox	37.0	Windows	1	i5-4460	418.174581175	3455.81000444
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-2630QM	30.7287785954	72.7
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1457.3093839	4911.80777574
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MALNJS; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron 1000M	31.1584894063	103.4
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MALNJS; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-3230M	11.3024894624	158.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron B800	29.97909072	131.3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-2320	290.047432115	4170.83994013
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3570K	272.355749711	3270.37458634
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-560M	14.6987131812	70.3
+Mozilla/5.0 (Windows NT 6.1; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Core 2 Duo E6400	2053.33449783	6099.58087803
+Mozilla/5.0 (Windows NT 5.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Atom N270	6742.5	3948.0
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3632QM	318.690999993	953.319699998
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Macintosh	1	i5-2400S	1066.7632315	1383.6625397
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	i3-2367M	2525.0784	2139.9663
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-560M	383.8401	991.4822
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	230.8255	770.5975
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2500	248.4523	755.6177
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2400	269.9223	841.2316
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Macintosh	1	i5-3210M	278.81	921.189
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-560M	403.119	1002.0511
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.93 Safari/537.36	Chrome	40.0.2214.93	Windows	1	i5-2500K	373.77559999	1180.82169998
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2400	341.262300004	840.874199977
+Mozilla/5.0 (Windows NT 6.2; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-3470U	250.429099999	819.962900007
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.93 Safari/537.36	Chrome	40.0.2214.93	Windows	1	i5-2500K	380.564300017	1171.8175
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	230.7481	772.2018
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.93 Safari/537.36	Chrome	40.0.2214.93	Windows	1	i5-2500K	382.350999955	1194.75929993
+Mozilla/5.0 (Windows NT 6.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-4570	337.9307	771.495
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-2670QM	15.3214689405	89.6
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.93 Safari/537.36	Chrome	40.0.2214.93	Windows	1	i5-2500K	379.96179997	1212.9195
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2500	248.2872	755.4997
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	i3-380M	34.9857356162	93.9
+Mozilla/5.0 (Windows NT 6.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-560M	496.9085	997.937
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.93 Safari/537.36	Chrome	40.0.2214.93	Windows	1	i5-2500K	383.995300112	1173.13760002
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Macintosh	1	i5-3210M	275.2537	897.0568
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Macintosh	1	i5-2400S	1035.4841264	1535.201665
+Mozilla/5.0 (Windows NT 5.1; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Core 2 Duo E6700	3573.4	7295.4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-2320	293.125097285	3876.75617704
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron B800	27.1819271569	130.3
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-560M	395.7527	998.2405
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-560M	392.282989393	4169.53274475
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	232.5162	774.2405
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-4800MQ	13.9966251392	53.8
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-2320	289.5811161	3870.56848407
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-560M	11.8815246774	71.8
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	220.752599993	757.913199993
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	i3-3120M	1329.7114	1183.4173
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Macintosh	1	i5-3210M	281.4403	921.4237
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3570K	282.206567796	3290.32407923
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-2670QM	347.119092859	4290.78079859
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Core 2 Duo E8400	18.5933144304	75.6
+Mozilla/5.0 (Windows NT 6.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	i3-350M	1721.26	1370.598
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-3570K	8.65433812656	51.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1402.6307361	4749.00416289
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-2320	288.681223006	3876.7656532
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; LCJB; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron N2815	53.1141057043	158.6
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-3570K	8.33587649847	51.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron B800	29.2929707598	128.4
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3570K	281.526840882	3245.47692421
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron P4600	33.4362777806	109.7
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-560M	12.027849916	72.7
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1366.23789224	4519.29812135
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-3610QM	9.7396570527	62.1
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-560M	396.6801	1002.3531
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-560M	384.361677801	4184.13527982
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3770	305.355916568	3174.42461018
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-560M	13.6284963494	74.1
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-560M	12.0232688311	74.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron B800	21.7552984772	138.1
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2320	273.9524	866.2267
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2 } AppleWebKit/600.3.18 (KHTML, like Gecko } Version/8.0.3 Safari/600.3.18	Safari	8.0.3	Macintosh	1	i7-3615QM	156.037231	3710.5
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	i5-430M	32.5083564179	185.4
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3570K	285.048362398	3323.74277839
+Mozilla/5.0 (Windows NT 6.1; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Core 2 Duo P8700	1904.1522138	5175.94343445
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-3570K	8.54588005739	50.9
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3770	299.21164342	3168.64467688
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-4670	4.08172321513	47.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Macintosh	1	i5-3210M	1001.1504843	1490.7591916
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-4670	681.443982075	3239.44135276
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-2320	288.97840496	3863.86363908
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron B800	35.4202929489	129.2
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Core 2 Duo E6300	21.1288859901	124.1
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2500	265.6235	778.0238
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Macintosh	1	i5-3210M	1015.8923206	1493.3316111
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; MAFSJS; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	i3-3240	17.028565426	55.3
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3570K	285.887863473	3247.998929
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Pentium 3558U	38.6349393415	232.3
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-3570K	8.75908332556	51.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-2400	8.18906125541	58.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3770	307.577302986	3169.29354593
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-2320	287.969758392	3880.03739149
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron B800	32.0089192858	129.1
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	i3-3217U	43.792068668	105.3
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-4440	4.45548439003	56.5
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	223.44220001	768.411199999
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.94 Safari/537.36	Chrome	40.0.2214.94	Macintosh	1	i5-2467M	415.7886	1227.0782
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	221.378899988	763.440699992
+Mozilla/5.0 (Windows NT 6.1; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Core 2 Duo E6400	2075.74765874	6321.95265606
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	i3-3217U	1847.8919	1653.386
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-560M	381.0575	1027.1898
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3820	234.2554	738.1545
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Core 2 Duo E8400	1752.1926336	4333.40033332
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Core 2 Duo E6400	19.8161926402	108.2
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-4440	4.68734531982	57.4
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-4702MQ	5.18799507531	56.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-2630QM	33.5489406335	70.9
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1329.34636283	4551.15092418
+Mozilla/5.0 (Windows NT 6.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Celeron E3300	1833.4	1268.7
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-2670Q	408.714748078	4380.51932179
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-4440	463.86508826	3839.82823154
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3930K	223.1018	696.1326
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-4460	339.859299999	813.222300005
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron B800	36.4986227064	132.4
+Mozilla/5.0 (Windows NT 6.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-4570	308.219	771.018
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3210M	517.738596962	4087.74343298
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Macintosh	1	i5-2400S	1054.8762094	1383.0056051
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Celeron B830	1777.56829339	8003.35271948
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-2670QM	334.937813226	4245.11362306
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASPJS; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-3632QM	10.6269984111	60.6
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-4440	5.27436435242	56.9
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1379.77649416	4564.49779516
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-4670	271.609486551	3199.77300073
+Mozilla/5.0 (Windows NT 6.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Core 2 Duo E6400	2046.5	1467.0
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	231.7104	758.5132
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	i3-2350M	1500.5126	1207.4522
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2450M	375.8455	927.027
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3632QM	310.240400006	973.1462
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Celeron P4600	1969.78069498	6667.26803132
+Mozilla/5.0 (Windows NT 6.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Core 2 Duo E8500	1441.7	1000.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5 } AppleWebKit/600.3.18 (KHTML, like Gecko } Version/7.1.3 Safari/537.85.12	Safari	7.1.3	Macintosh	1	i5-3210M	170.0	3883.7
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-4440	452.806550245	3840.23285419
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-3610QM	8.92892362255	61.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1398.23705246	4678.24325027
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Pentium P6200	24.1708546582	128.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	i5-2410M	31.0451643995	72.6
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Celeron 1000M	1615.74383919	6755.79813065
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-2450M	13.7258773802	72.0
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-4430	262.028	854.079
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2450M	374.0935	929.6471
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Celeron 1000M	1763.0929	1638.0241
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	i3-3217U	1856.7614	1661.7944
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-560M	399.5746	1003.0112
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5 } AppleWebKit/600.3.18 (KHTML, like Gecko } Version/7.1.3 Safari/537.85.12	Safari	7.1.3	Macintosh	1	i5-3210M	167.1	3830.4
+Mozilla/5.0 (Windows NT 6.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Core 2 Duo E6400	2035.6	1472.2
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3230M	823.266167137	10059.5918081
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-560M	395.313049778	4154.69880715
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2320	279.0093	866.4589
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	i3-370M	17.0482959916	91.7
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/39.0.2171.95 Safari/537.36	Chrome	39.0.2171.95	Windows	1	i3-4150	243.819199991	820.369300002
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2 } AppleWebKit/600.3.18 (KHTML, like Gecko } Version/8.0.3 Safari/600.3.18	Safari	8.0.3	Macintosh	1	i5-3427U	211.203445103	4817.5
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2500	249.3725	755.784
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron B800	32.2017280261	130.2
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	232.9311	772.5637
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1387.02547702	4538.76912547
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3570K	296.018746674	3243.84863443
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-2670QM	297.897260351	4304.97258858
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-2670QM	335.035288553	4431.04730192
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-4770K	299.232520864	3164.88738323
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-2320	290.233773787	3910.92303613
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-560M	395.560197379	4207.58623796
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	i3-2310M	34.7264781576	93.3
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-3570K	8.52988151114	53.1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-560M	387.734395632	4177.85288019
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1454.0617355	4981.13516021
+Mozilla/5.0 (Windows NT 6.3; Win64; x64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-4670	715.2859	736.190999999
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3570K	273.736273323	3255.49222546
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron B800	28.1154553516	129.9
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-560M	400.004157623	4263.29796531
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-560M	12.9291687294	71.8
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3770	306.289616676	3166.64328291
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2320	276.8026	865.374
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-3570K	8.96467973778	51.2
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-560M	13.4800153062	70.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3770	282.198028822	3167.81152491
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASPJS; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	i5-3217U	37.1400942054	106.0
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-560M	396.961970837	4185.27023396
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Pentium P6200	2114.0979249	6477.11022807
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5 } AppleWebKit/600.3.18 (KHTML, like Gecko } Version/7.1.3 Safari/537.85.12	Safari	7.1.3	Macintosh	1	i5-3210M	167.7	3810.1
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-3570K	8.8800685583	51.9
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-2320	284.721522343	3879.06487064
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1368.02446015	4654.72436141
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-560M	11.8598126452	72.0
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2320	274.0451	866.3159
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3630QM	509.505871224	3778.13656888
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-560M	399.345790291	4174.9905876
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-2320	288.340423348	3873.62555484
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-4460	17.7616345922	60.3
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.93 Safari/537.36	Chrome	40.0.2214.93	Windows	1	i5-2500K	276.783999964	823.120500008
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron B800	31.6363365176	129.7
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-2670QM	372.303455071	5656.2032569
+Mozilla/5.0 (X11; Linux i686; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Linux	0	Pentium D 820	14103.8052525	8749.7880707
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2430M	323.4966	957.8222
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Pentium 3556U	2896.7785	2540.01579999
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-2670QM	15.1637967711	66.9
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0 } Gecko/20100101 Firefox/34.0	Firefox	34.0	Windows	1	i5-2500K	276.18020719	3614.24841622
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASPJS; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-3632QM	11.3103374277	60.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-2500K	4.16254847749	56.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-2500K	4.55534441953	58.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-2430M	9.0755030436	66.0
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2450M	361.042100001	917.9817
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2 } AppleWebKit/600.3.18 (KHTML, like Gecko } Version/8.0.3 Safari/600.3.18	Safari	8.0.3	Macintosh	1	i5-4250U	186.904361701	4036.1
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	i3-2350M	1479.8241	1206.6128
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-2670QM	361.0928	1259.6644
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i3-3120M	1204.13076062	4853.80966398
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-4300U	300.157	955.0202
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-4440	12.3578127096	56.0
+Mozilla/5.0 (Windows NT 6.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-4570	306.284	770.5002
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-3610QM	9.24182638483	60.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-2450M	10.1319954662	191.8
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-4800MQ	246.635300001	750.427400001
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2 } AppleWebKit/600.3.18 (KHTML, like Gecko } Version/8.0.3 Safari/600.3.18	Safari	8.0.3	Macintosh	1	i7-3615QM	157.6709185	3699.8
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Core 2 Duo E6400	19.298232951	107.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Pentium P6100	1868.43003203	6587.76427897
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3630QM	279.151599998	920.257000001
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Macintosh	1	i7-3615QM	304.397600004	852.107300039
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3630QM	502.887054142	3768.21221336
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-4800MQ	18.1792263371	51.5
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Pentium P6200	1894.8873	1483.1792
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	227.1835	786.7402
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-3570K	280.410881123	3266.4146731
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	i5-460M	1469.1258	1129.2837
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3632QM	301.698522418	3964.13691372
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-3770	8.22078644073	50.0
+Mozilla/5.0 (Windows NT 5.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Pentium D 960	1937.8	2009.4
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2450M	361.128699999	923.7652
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-2670QM	375.3818	1262.0762
+Mozilla/5.0 (Windows NT 6.1; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Core 2 Duo E6400	2145.57559257	6134.08318152
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-2450M	296.142	928.3493
+Mozilla/5.0 (Windows NT 6.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-4790	233.1354	734.377600001
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-2670Q	395.411065337	4354.40818842
+Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-2600	332.9725	760.0974
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-4440	410.590280249	3896.38965085
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-3427U	27.7935404213	166.7
+Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-4440	377.062300011	847.022900014
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-2670QM	381.01084949	5648.40154637
+Mozilla/5.0 (Windows NT 6.1 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	0	Core 2 Duo E6400	2072.7	1469.7
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-3570K	7.93677098681	49.2
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3630QM	311.2746905	3752.71534563
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASPJS; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	i3-3217U	32.7451349333	103.9
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3770	471.227408663	3283.78724314
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASPJS; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-3632QM	13.8792359845	59.4
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MDDCJS; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-3632QM	8.72004414976	124.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Macintosh	1	i5-3210M	1026.71386	1337.5655958
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i3-3240	924.665039617	3572.22114597
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1287.63716434	4514.64130839
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASPJS; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Pentium 2117U	35.7082784295	108.7
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-4440	436.403291677	3840.54066671
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	i5-480M	1321.58440464	4539.31612449
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Xeon 5160	21.386072142	90.7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Macintosh	1	i5-3210M	279.4547	901.672
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i7-3630QM	597.227720909	3850.03893626
