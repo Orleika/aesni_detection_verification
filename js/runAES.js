@@ -186,6 +186,7 @@ $(function() {
   }
 
   function send() {
+    console.log(data);
     return $.ajax({
       'type': 'POST',
       'url': 'aes.php',
@@ -202,8 +203,8 @@ $(function() {
   }
 
   var data = {};
-  var execMontecarlo = new Worker('aes/runMonte.js');
-  var execExpand = new Worker('aes/expand.js');
+  var execMontecarlo = new Worker('js/runMontecarlo.js');
+  var execExpand = new Worker('js/expand.js');
   execMontecarlo.onmessage = function(e) {
     data.montecarlo = e.data;
     if (navigator.userAgent.indexOf('Trident') !== -1) { // IE
