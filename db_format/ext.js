@@ -3,7 +3,9 @@ var result = db.origin.find({"aesni": {$ne: ""}}, {
   "http_User-Agent": 1,
   "aesni": 1,
   "aes": 1,
-  "montecarlo": 1
+  "montecarlo": 1,
+  "1stUpdate": 1,
+  "2ndUpdate": 1
 });
 DBQuery.shellBatchSize = result.count();
 shellPrint(result);

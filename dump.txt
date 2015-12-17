@@ -191,7 +191,6 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefo
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	1	i5-2320	287.969758392	3880.03739149
 Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Celeron B800	32.0089192858	129.1
 Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	i3-3217U	43.792068668	105.3
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-4440	4.45548439003	56.5
 Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	223.44220001	768.411199999
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.94 Safari/537.36	Chrome	40.0.2214.94	Macintosh	1	i5-2467M	415.7886	1227.0782
 Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3770	221.378899988	763.440699992
@@ -200,6 +199,7 @@ Mozilla/5.0 (Windows NT 6.3; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chr
 Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i5-560M	381.0575	1027.1898
 Mozilla/5.0 (Windows NT 6.1; WOW64 } AppleWebKit/537.36 (KHTML, like Gecko } Chrome/40.0.2214.111 Safari/537.36	Chrome	40.0.2214.111	Windows	1	i7-3820	234.2554	738.1545
 Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0 } Gecko/20100101 Firefox/35.0	Firefox	35.0	Windows	0	Core 2 Duo E8400	1752.1926336	4333.40033332
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-4440	4.45548439003	56.5
 Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	0	Core 2 Duo E6400	19.8161926402	108.2
 Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i5-4440	4.68734531982	57.4
 Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0 } like Gecko	Microsoft Internet Explorer	11.0	Windows	1	i7-4702MQ	5.18799507531	56.2
